@@ -94,15 +94,17 @@ The voice agent automatically detects the language spoken by the patient and res
 
 ### Voice Agent Interface
 
-![Voice Agent](screenshots/voice-agent.png)
+<img width="1919" height="809" alt="image" src="https://github.com/user-attachments/assets/b436b5c9-cc6c-416c-b74a-a29d97aec226" />
+
 
 The Voice Agent interface allows users to start a call and interact with the AI assistant. It provides real-time conversation transcripts and intelligent appointment booking assistance.
 
 ---
 
 ### Patient Management Dashboard
+<img width="1919" height="791" alt="image" src="https://github.com/user-attachments/assets/ead54a57-951b-4e9a-897c-c9910419e15b" />
 
-![Patients Dashboard](screenshots/patients.png)
+
 
 The Patients module allows healthcare administrators to manage patient profiles, language preferences, and appointment records.
 
@@ -110,7 +112,8 @@ The Patients module allows healthcare administrators to manage patient profiles,
 
 ### Appointment Management
 
-![Appointments Dashboard](screenshots/appointments.png)
+<img width="1919" height="805" alt="image" src="https://github.com/user-attachments/assets/0e8e0dce-3f0a-410c-a6fc-cdb72eb5b31d" />
+
 
 The Appointments module provides a structured overview of scheduled consultations, patient details, doctor specialization, and appointment status.
 
@@ -181,3 +184,15 @@ Vishnu Institute of Technology
 This project is intended for academic and research purposes.
 
 ## Project Structure
+MediVoice
+│
+├── components
+├── pages
+├── services
+├── database
+├── voice-agent
+├── screenshots
+│ ├── voice-agent.png
+│ ├── patients.png
+│ └── appointments.png
+└── README.md
